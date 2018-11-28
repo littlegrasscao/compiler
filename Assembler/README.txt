@@ -7,19 +7,19 @@ I take dest and comp permutatioin into consideration. DM=M+D is the same as MD=D
 
 Command input instruction:
 Case 1.
-If you are already in the directry of 'xxx/Siyuan_Cao_Project6/src/', type 'python assembler.py C:\Uchicago\introComputerSystem\HW\HW4\06\max\Max.asm'  
+If you are already in the directry of 'xxx/Assembler/src/', type 'python assembler.py xxx\max\Max.asm'  
 
-For example: In my computer, 'assembler.py' is under directory 'C:\Uchicago\introComputerSystem\HW\HW4\Cao_Siyuan_Project6\src'.
-'C:\Uchicago\introComputerSystem\HW\HW4\Cao_Siyuan_Project6\src>python assembler.py C:\Uchicago\introComputerSystem\HW\HW4\06\max\Max.asm' will create a 'Max.hack' in the same directory as 'Max.asm'.
-'C:\Uchicago\introComputerSystem\HW\HW4\Cao_Siyuan_Project6\src>' is my working directory.
-'C:\Uchicago\introComputerSystem\HW\HW4\06\max\Max.asm' is the directory of Max.asm file
+For example: In my computer, 'assembler.py' is under directory 'C:\Assembler\src'.
+'C:\Assembler\src>python assembler.py C:\Assembler\06\max\Max.asm' will create a 'Max.hack' in the same directory as 'Max.asm'.
+'C:\Assembler\src>' is my working directory.
+'C:\Assembler\06\max\Max.asm' is the directory of Max.asm file
 
 
 Case 2.
-If you are not in the directry of 'xxx/Siyuan_Cao_Project6/src/', type 'python directory/assembler.py directory/Max.asm'
+If you are not in the directry of 'xxx/Assembler/src/', type 'python directory/assembler.py directory/Max.asm'
 
 For example, In my computer, type 
-C:\>python C:\Uchicago\introComputerSystem\HW\HW4\Cao_Siyuan_Project6\src\assembler.py C:\Uchicago\introComputerSystem\HW\HW4\06\max\Max.asm
+C:\>python C:\Assembler\src\assembler.py C:\Assembler\06\max\Max.asm
 
 
 
