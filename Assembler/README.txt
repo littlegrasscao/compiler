@@ -1,6 +1,5 @@
 Note:
 I use python 3.7 to write the file.
-I have modified 'filterfilel.py', which is used in Project0. It can be called by 'assembler.py' through passing parameters to a main function instead of calling through command line. In this way, we can avoid import additional libary. 
 I take dest and comp permutatioin into consideration. DM=M+D is the same as MD=D+M.
 
 Command input instruction:
