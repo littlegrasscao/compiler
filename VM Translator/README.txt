@@ -1,7 +1,6 @@
 Note:
 I use python 3.7 to write the file.
 Only allow bootstrapping tests!!!!
-I have modified 'filterfilel.py', which is used in Project0. It can be called by 'VMtranslator.py' through passing parameters to a main function instead of calling through command line. In this way, we can avoid import additional libary. 
 
 Command input instruction:
 Case 1.
